@@ -1,0 +1,1271 @@
+            All	       PDT	      B-NP	         O	              -	(S1(S(S(NP*
+            the	        DT	      I-NP	         O	              -	*
+     appetizers	       NNS	      I-NP	         O	              -	*
+            and	        CC	      I-NP	         O	              -	*
+         salads	       NNS	      E-NP	         O	              -	*)
+           were	       VBD	      S-VP	         O	              -	(VP*
+       fabulous	        JJ	    S-ADJP	         O	              -	(ADJP*)))
+              ,	         ,	         O	         O	              -	*
+            the	        DT	      B-NP	         O	              -	(S(NP*
+          steak	        NN	      E-NP	         O	              -	*)
+            was	       VBD	      S-VP	         O	              -	(VP*
+          mouth	        NN	      B-NP	         O	              -	(NX*
+       watering	        NN	      E-NP	         O	              -	*)))
+            and	        CC	         O	         O	              -	*
+            the	        DT	      B-NP	         O	              -	(S(NP*
+          pasta	        NN	      E-NP	         O	              -	*)
+            was	       VBD	      S-VP	         O	              -	(VP*
+      delicious	        JJ	    S-ADJP	         O	              -	(ADJP*)))
+              !	         .	         O	         O	              -	*
+              !	         .	         O	         O	              -	*
+              !	         .	         O	         O	              -	*))
+
+            And	        CC	         O	         O	              -	(S1(S*
+         really	        RB	      B-NP	         O	              -	(ADJP*
+          large	        JJ	      I-NP	         O	              -	*)
+       portions	       NNS	      E-NP	         O	              -	(VP*)
+              .	         .	         O	         O	              -	*))
+
+             Go	        VB	      S-VP	         O	             Go	       S-V	         O	         O	(S1(S(VP*
+         inside	        RB	    S-ADVP	         O	              -	  S-AM-DIR	         O	         O	(ADVP*))
+            and	        CC	         O	         O	              -	         O	         O	         O	*
+            you	       PRP	      S-NP	         O	              -	         O	      S-A0	      S-A0	(S(NP*)
+             wo	        MD	      B-VP	         O	              -	         O	  S-AM-MOD	         O	(VP*
+            n't	        RB	      I-VP	         O	              -	         O	  S-AM-NEG	         O	*
+           want	        VB	      I-VP	         O	           want	         O	       S-V	         O	(VP*
+             to	        TO	      I-VP	         O	              -	         O	      B-A1	         O	(S(VP*
+          leave	        VB	      E-VP	         O	          leave	         O	      E-A1	       S-V	(VP*))))))
+              .	         .	         O	         O	              -	         O	         O	         O	*))
+
+           Save	        VB	      S-VP	         O	           Save	       S-V	         O	(S1(S(S(VP(VP*
+       yourself	       PRP	      S-NP	         O	              -	      B-A1	         O	(NP*)
+            the	        DT	      B-NP	         O	              -	      I-A1	         O	(NP*
+           time	        NN	      E-NP	         O	              -	      I-A1	         O	*
+            and	        CC	         O	         O	              -	      I-A1	         O	*
+        trouble	        NN	      S-NP	         O	              -	      I-A1	         O	*))
+            and	        CC	         O	         O	              -	      I-A1	         O	*
+           skip	        VB	      S-VP	         O	           skip	      I-A1	       S-V	(VP*
+           this	        DT	      B-NP	         O	              -	      I-A1	      B-A1	(NP*
+            one	        CD	      E-NP	         O	              -	      E-A1	      E-A1	*))))
+              !	         .	         O	         O	              -	         O	         O	*))
+
+            The	        DT	      B-NP	         O	              -	(S1(S(S(NP*
+          sweet	        JJ	      I-NP	         O	              -	*
+          lassi	        NN	      E-NP	         O	              -	*)
+            was	       VBD	      S-VP	         O	              -	(VP*
+      excellent	        JJ	    S-ADJP	         O	              -	(ADJP(ADJP*)
+             as	        IN	    S-SBAR	         O	              -	(SBAR*
+            was	       VBD	      S-VP	         O	              -	(SINV(VP*)
+            the	        DT	      B-NP	         O	              -	(NP*
+           lamb	        NN	      I-NP	         O	              -	*
+      chettinad	        NN	      E-NP	         O	              -	*)
+            and	        CC	         O	         O	              -	*
+            the	        DT	      B-NP	         O	              -	(NP*
+         garlic	        NN	      I-NP	         O	              -	*
+           naan	        NN	      E-NP	         O	              -	*))))))
+            but	        CC	         O	         O	              -	*
+            the	        DT	      B-NP	         O	              -	(S(NP*
+      rasamalai	        NN	      E-NP	         O	              -	*)
+            was	       VBD	      S-VP	         O	              -	(VP*
+    forgettable	        JJ	    S-ADJP	         O	              -	(ADJP*)))
+              .	         .	         O	         O	              -	*))
+
+        Service	        NN	      S-NP	         O	              -	(S1(S(NP*)
+            was	       VBD	      S-VP	         O	              -	(VP*
+          quick	        JJ	    S-ADJP	         O	              -	(ADJP*))
+              .	         .	         O	         O	              -	*))
+
+             Oh	        UH	      S-NP	     S-PER	              -	      S-A0	         O	(S1(S(INTJ*)
+              ,	         ,	         O	         O	              -	         O	         O	*
+             do	       VBP	      B-VP	         O	              -	         O	         O	(VP*
+            n't	        RB	      I-VP	         O	              -	  S-AM-NEG	         O	*
+           even	        RB	      I-VP	         O	              -	  S-AM-ADV	         O	(ADVP*)
+            let	        VB	      E-VP	         O	            let	       S-V	         O	(VP*
+             me	       PRP	      S-NP	         O	              -	      B-A1	      S-A1	(S(NP*)
+          start	        VB	      S-VP	         O	          start	      I-A1	       S-V	(VP*
+           with	        IN	      S-PP	         O	              -	      I-A1	  B-AM-MNR	(PP*
+            how	       WRB	    B-ADJP	         O	              -	      I-A1	  I-AM-MNR	(SBAR(WHADJP*
+      expensive	        JJ	    E-ADJP	         O	              -	      I-A1	  I-AM-MNR	*)
+            the	        DT	      B-NP	         O	              -	      I-A1	  I-AM-MNR	(S(NP*
+          bills	       NNS	      E-NP	         O	              -	      I-A1	  I-AM-MNR	*)
+           were	       VBD	      S-VP	         O	              -	      E-A1	  E-AM-MNR	(VP*))))))))
+              !	         .	         O	         O	              -	         O	         O	*))
+
+        Service	        NN	      S-NP	         O	              -	(S1(S(NP*)
+             is	       VBZ	      S-VP	         O	              -	(VP*
+            top	        JJ	      B-NP	         O	              -	(NP*
+          notch	        NN	      E-NP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+
+            The	        DT	      B-NP	         O	              -	      B-A1	(S1(S(NP(NP*
+           best	       JJS	      I-NP	         O	              -	      I-A1	*
+          thing	        NN	      E-NP	         O	              -	      E-A1	*)
+              I	       PRP	      S-NP	         O	              -	      S-A0	(SBAR(S(NP*)
+         tasted	       VBD	      S-VP	         O	         tasted	       S-V	(VP*))))
+           were	       VBD	      S-VP	         O	              -	         O	(VP*
+            the	        DT	      B-NP	         O	              -	         O	(NP*
+          lambc	        JJ	      I-NP	         O	              -	         O	*
+           hops	       NNS	      E-NP	         O	              -	         O	*))
+              .	         .	         O	         O	              -	         O	*))
+
+        Overall	        RB	    S-ADVP	         O	              -	  S-AM-ADV	         O	(S1(S(ADVP*)
+              I	       PRP	      S-NP	         O	              -	      S-A0	         O	(NP*)
+          would	        MD	      B-VP	         O	              -	  S-AM-MOD	         O	(VP*
+      recommend	        VB	      E-VP	         O	      recommend	       S-V	         O	(VP(VP*
+             it	       PRP	      S-NP	         O	              -	      S-A1	         O	(NP*))
+            and	        CC	         O	         O	              -	         O	         O	*
+             go	        VB	      S-VP	         O	             go	         O	       S-V	(VP*
+           back	        RB	    S-ADVP	         O	              -	         O	  S-AM-DIR	(ADVP*)
+          again	        RB	    S-ADVP	         O	              -	         O	  S-AM-TMP	(ADVP*))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+              I	       PRP	      S-NP	         O	              -	(S1(S(NP*)
+            've	       VBP	      B-VP	         O	              -	(VP(VP*
+           been	       VBN	      E-VP	         O	              -	(VP*
+           here	        RB	    S-ADVP	         O	              -	(ADVP*)
+              a	        DT	      B-NP	         O	              -	(NP(NP*
+         couple	        NN	      E-NP	         O	              -	*)
+             of	        IN	      S-PP	         O	              -	(PP*
+          times	       NNS	      S-NP	         O	              -	(NP*)))))
+            and	        CC	         O	         O	              -	*
+           have	       VBP	      B-VP	         O	              -	(VP*
+            not	        RB	      I-VP	         O	              -	*
+           been	       VBN	      I-VP	         O	              -	(VP*
+      impressed	       VBN	      E-VP	         O	              -	(VP*))))
+              .	         .	         O	         O	              -	*))
+
+           Even	        RB	    B-SBAR	         O	              -	(S1(S(PP(ADVP*)
+         though	        IN	    E-SBAR	         O	              -	*
+            its	      PRP$	      B-NP	         O	              -	(NP(NP*
+           good	        JJ	      I-NP	         O	              -	*
+        seafood	        NN	      E-NP	         O	              -	*)
+              ,	         ,	         O	         O	              -	*))
+            the	        DT	      B-NP	         O	              -	(NP*
+         prices	       NNS	      E-NP	         O	              -	*)
+            are	       VBP	      S-VP	         O	              -	(VP*
+            too	        RB	    B-ADJP	         O	              -	(ADJP*
+           high	        JJ	    E-ADJP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+
+             In	        IN	      S-PP	         O	              -	(S1(S(PP*
+       addition	        NN	      S-NP	         O	              -	(NP*))
+              ,	         ,	         O	         O	              -	*
+            the	        DT	      B-NP	         O	              -	(S(NP*
+           food	        NN	      E-NP	         O	              -	*)
+             is	       VBZ	      S-VP	         O	              -	(VP*
+           very	        RB	    B-ADJP	         O	              -	(ADJP*
+           good	        JJ	    E-ADJP	         O	              -	*)))
+            and	        CC	         O	         O	              -	*
+            the	        DT	      B-NP	         O	              -	(S(NP*
+         prices	       NNS	      E-NP	         O	              -	*)
+            are	       VBP	      S-VP	         O	              -	(VP*
+     reasonable	        JJ	    S-ADJP	         O	              -	(ADJP*)))
+              .	         .	         O	         O	              -	*))
+
+            The	        DT	      B-NP	         O	              -	(S1(S(NP*
+           food	        NN	      E-NP	         O	              -	*)
+             is	       VBZ	      S-VP	         O	              -	(VP*
+          great	        JJ	    B-ADJP	         O	              -	(ADJP*
+            and	        CC	    I-ADJP	         O	              -	*
+      authentic	        JJ	    E-ADJP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+
+              I	       PRP	      S-NP	         O	              -	(S1(S(NP*)
+            was	       VBD	      S-VP	         O	              -	(VP*
+             at	        IN	      S-PP	         O	              -	(PP*
+            Rao	       NNP	      S-NP	     S-PER	              -	(NP(NP*
+             's	       POS	      S-NP	         O	              -	*)
+           last	        JJ	    B-ADJP	         O	              -	*
+            Wed	       NNP	    E-ADJP	         O	              -	*)))
+              .	         .	         O	         O	              -	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	(S1(S(NP*)
+      recommend	       VBP	      S-VP	         O	      recommend	       S-V	(VP*
+            the	        DT	      B-NP	         O	              -	      B-A1	(NP(NP*
+         garlic	        NN	      I-NP	         O	              -	      I-A1	*
+         shrimp	        NN	      E-NP	         O	              -	      I-A1	*)
+              ,	         ,	         O	         O	              -	      I-A1	*
+           okra	        NN	      B-NP	         O	              -	      I-A1	(NP*
+          -LRB-	        NN	      I-NP	         O	              -	      I-A1	*
+          bindi	        NN	      I-NP	         O	              -	      I-A1	*
+          -RRB-	       NNP	      E-NP	     S-LOC	              -	      I-A1	*)
+              ,	         ,	         O	         O	              -	      I-A1	*
+            and	        CC	         O	         O	              -	      I-A1	*
+       anything	        NN	      S-NP	         O	              -	      I-A1	(NP(NP*)
+           with	        IN	      S-PP	         O	              -	      I-A1	(PP*
+           lamb	        NN	      S-NP	         O	              -	      E-A1	(NP*)))))
+              .	         .	         O	         O	              -	         O	*))
+
+            The	        DT	      B-NP	         O	              -	         O	(S1(S(NP*
+           menu	        NN	      E-NP	         O	              -	         O	*)
+            was	       VBD	      S-VP	         O	              -	         O	(VP*
+     impressive	        JJ	    S-ADJP	         O	              -	         O	(ADJP*)
+           with	        IN	      S-PP	         O	              -	         O	(PP*
+     selections	       NNS	      S-NP	         O	              -	      S-A1	(NP(NP*)
+        ranging	       VBG	      S-VP	         O	        ranging	       S-V	(VP*
+           from	        IN	      S-PP	         O	              -	      B-A3	(PP(PP*
+              a	        DT	      B-NP	         O	              -	      I-A3	(NP*
+         burger	        NN	      E-NP	         O	              -	      E-A3	*))
+              ,	         ,	         O	         O	              -	         O	*
+             to	        TO	      S-PP	         O	              -	         O	(PP*
+          steak	        NN	      S-NP	         O	              -	         O	(NP*))
+              ,	         ,	         O	         O	              -	         O	*
+             to	        TO	      B-VP	         O	              -	         O	(SBAR(S(VP*
+       escargot	        VB	      E-VP	         O	              -	         O	(VP*)))))))))
+              .	         .	         O	         O	              -	         O	*))
+
+           very	        RB	      B-NP	         O	              -	(S1(NP(NP(ADJP*
+           good	        JJ	      I-NP	         O	              -	*)
+         breads	       NNS	      E-NP	         O	              -	*)
+             as	        RB	    B-ADVP	         O	              -	(ADVP*
+           well	        RB	    E-ADVP	         O	              -	*)
+              .	         .	         O	         O	              -	*))
+
+         Anyway	        RB	    S-ADVP	         O	              -	         O	(S1(S(ADVP*)
+              ,	         ,	         O	         O	              -	         O	*
+            the	        DT	      B-NP	         O	              -	         O	(S(NP*
+           food	        NN	      E-NP	         O	              -	         O	*)
+             is	       VBZ	      S-VP	         O	              -	         O	(VP*
+           good	        JJ	    S-ADJP	         O	              -	         O	(ADJP*)))
+              ,	         ,	         O	         O	              -	         O	*
+            the	        DT	      B-NP	         O	              -	         O	(S(NP*
+          price	        NN	      E-NP	         O	              -	         O	*)
+             is	       VBZ	      S-VP	         O	              -	         O	(VP*
+          right	        JJ	    S-ADJP	         O	              -	         O	(ADJP*)))
+            and	        CC	         O	         O	              -	         O	*
+           they	       PRP	      S-NP	         O	              -	      S-A0	(S(NP*)
+           have	       VBP	      S-VP	         O	           have	       S-V	(VP*
+              a	        DT	      B-NP	         O	              -	      B-A1	(NP*
+         decent	        JJ	      I-NP	         O	              -	      I-A1	*
+           wine	        NN	      I-NP	         O	              -	      I-A1	*
+           list	        NN	      E-NP	         O	              -	      E-A1	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+            The	        DT	      B-NP	         O	              -	(S1(S(S(NP*
+           food	        NN	      E-NP	         O	              -	*)
+            was	       VBD	      S-VP	         O	              -	(VP*
+          lousy	        JJ	    B-ADJP	         O	              -	(ADJP(ADJP*
+           -too	        JJ	    I-ADJP	         O	              -	*)
+          sweet	        JJ	    E-ADJP	         O	              -	(ADJP*
+             or	        CC	         O	         O	              -	*
+            too	        RB	    B-ADJP	         O	              -	(ADJP*
+          salty	        JJ	    E-ADJP	         O	              -	*)))))
+            and	        CC	         O	         O	              -	*
+            the	        DT	      B-NP	         O	              -	(S(NP*
+       portions	       NNS	      E-NP	         O	              -	*)
+           tiny	        JJ	    S-ADJP	         O	              -	(ADJP*))
+              .	         .	         O	         O	              -	*))
+
+            But	        CC	         O	         O	              -	(S1(S*
+            the	        DT	      B-NP	         O	              -	(NP*
+        coconut	        NN	      I-NP	         O	              -	*
+           rice	        NN	      E-NP	         O	              -	*)
+            was	       VBD	      S-VP	         O	              -	(VP*
+           good	        JJ	    S-ADJP	         O	              -	(ADJP*))
+              .	         .	         O	         O	              -	*))
+
+            And	        CC	         O	         O	              -	(S1(S*
+            the	        DT	      B-NP	         O	              -	(NP*
+            Tom	       NNP	      I-NP	     B-PER	              -	*
+            Kha	       NNP	      I-NP	     E-PER	              -	*
+           soup	        NN	      E-NP	         O	              -	*)
+            was	       VBD	      S-VP	         O	              -	(VP*
+       pathetic	        JJ	    S-ADJP	         O	              -	(ADJP*))
+              .	         .	         O	         O	              -	*))
+
+            The	        DT	      B-NP	         O	              -	(S1(S(NP*
+           food	        NN	      E-NP	         O	              -	*)
+            now	        RB	    S-ADVP	         O	              -	(ADVP*)
+             is	       VBZ	      S-VP	         O	              -	(VP*
+   inconsistent	        JJ	    S-ADJP	         O	              -	(ADJP*))
+              .	         .	         O	         O	              -	*))
+
+            Try	        VB	      S-VP	         O	            Try	       S-V	         O	(S1(S(S(VP*
+            the	        DT	      B-NP	         O	              -	      B-A1	         O	(NP*
+        crunchy	        JJ	      I-NP	         O	              -	      I-A1	         O	*
+           tuna	        NN	      E-NP	         O	              -	      E-A1	         O	*)))
+              ,	         ,	         O	         O	              -	         O	         O	*
+             it	       PRP	      S-NP	         O	              -	         O	      S-A1	(NP*)
+             is	       VBZ	      B-VP	         O	              -	         O	         O	(VP*
+             to	        TO	      I-VP	         O	              -	         O	         O	(S(VP*
+            die	        VB	      E-VP	         O	            die	         O	       S-V	(VP*
+            for	        IN	      S-PP	         O	              -	         O	         O	(PP*)))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+     Reasonable	        JJ	      B-NP	         O	              -	(S1(FRAG(NP*
+         prices	       NNS	      E-NP	         O	              -	*)
+              .	         .	         O	         O	              -	*))
+
+     Everything	        NN	      S-NP	         O	              -	(S1(S(NP(NP*)
+             at	        IN	      S-PP	         O	              -	(PP*
+           Sala	       NNP	      B-NP	     S-LOC	              -	(NP*
+           Thai	       NNP	      E-NP	    S-MISC	              -	*)))
+             is	       VBZ	      S-VP	         O	              -	(VP*
+          tasty	        JJ	    B-ADJP	         O	              -	(ADJP*
+            and	        CC	    I-ADJP	         O	              -	*
+ well-portioned	        JJ	    E-ADJP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+
+            Add	        VB	      S-VP	         O	            Add	       S-V	         O	(S1(S(UCP(S(VP*
+             to	        TO	      S-PP	         O	              -	      B-A2	         O	(PP*
+           that	        DT	      B-NP	         O	              -	      I-A2	         O	(NP*
+          great	        JJ	      I-NP	         O	              -	      I-A2	         O	*
+        service	        NN	      E-NP	         O	              -	      I-A2	         O	*))))
+            and	        CC	         O	         O	              -	      I-A2	         O	*
+          great	        JJ	      B-NP	         O	              -	      I-A2	         O	(VP(NP*
+           food	        NN	      E-NP	         O	              -	      E-A2	         O	*)
+             at	        IN	      S-PP	         O	              -	  B-AM-MNR	         O	(PP*
+              a	        DT	      B-NP	         O	              -	  I-AM-MNR	         O	(NP*
+     reasonable	        JJ	      I-NP	         O	              -	  I-AM-MNR	         O	*
+          price	        NN	      E-NP	         O	              -	  E-AM-MNR	         O	*))))
+            and	        CC	         O	         O	              -	         O	         O	*
+            you	       PRP	      S-NP	         O	              -	         O	      S-A0	(S(NP*)
+           have	       VBP	      S-VP	         O	           have	         O	       S-V	(VP*
+       yourself	       PRP	      S-NP	         O	              -	         O	      S-A1	(NP*)
+            the	        DT	      B-NP	         O	              -	         O	  B-AM-TMP	(NP(NP*
+      beginning	        NN	      E-NP	         O	              -	         O	  I-AM-TMP	*)
+             of	        IN	      S-PP	         O	              -	         O	  I-AM-TMP	(PP*
+              a	        DT	      B-NP	         O	              -	         O	  I-AM-TMP	(NP*
+          great	        JJ	      I-NP	         O	              -	         O	  I-AM-TMP	*
+        evening	        NN	      E-NP	         O	              -	         O	  E-AM-TMP	*)))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+  Unfortunately	        RB	    S-ADVP	         O	              -	         O	         O	(S1(S(ADVP*)
+              ,	         ,	         O	         O	              -	         O	         O	*
+            the	        DT	      B-NP	         O	              -	      B-A1	         O	(NP*
+           food	        NN	      E-NP	         O	              -	      E-A1	         O	*)
+            was	       VBD	      S-VP	         O	              -	         O	         O	(VP*
+            NOT	        RB	         O	         O	              -	         O	         O	*
+      something	        NN	      S-NP	         O	              -	         O	         O	(NP(NP*)
+             to	        TO	      B-VP	         O	              -	         O	         O	(SBAR(S(VP*
+            get	        VB	      I-VP	         O	            get	       S-V	         O	(VP*
+         worked	       VBN	      E-VP	         O	         worked	         O	       S-V	(VP*
+             up	        RP	     S-PRT	         O	              -	         O	         O	(ADVP*)
+          about	        RB	    S-ADVP	         O	              -	         O	         O	(ADVP*))))))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+            The	        DT	      B-NP	         O	              -	      B-A1	(S1(S(NP*
+           food	        NN	      E-NP	         O	              -	      E-A1	*)
+             is	       VBZ	      S-VP	         O	              -	         O	(VP*
+          great	        JJ	    S-ADJP	         O	              -	         O	(ADJP(ADJP*)
+            and	        CC	         O	         O	              -	         O	*
+     reasonably	        RB	      B-VP	         O	              -	  S-AM-MNR	(ADJP*
+         priced	       VBN	      E-VP	         O	         priced	       S-V	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	      S-A0	         O	(S1(S(NP*)
+            got	       VBD	      S-VP	         O	            got	       S-V	         O	         O	(VP*
+         enough	        JJ	      B-NP	         O	              -	      B-A1	         O	         O	(NP(NP*
+        reasons	       NNS	      E-NP	         O	              -	      I-A1	         O	         O	*)
+             to	        TO	      B-VP	         O	              -	      I-A1	         O	         O	(SBAR(S(VP*
+           keep	        VB	      I-VP	         O	           keep	      I-A1	       S-V	         O	(VP*
+         coming	       VBG	      E-VP	         O	         coming	      I-A1	      B-A1	       S-V	(S(VP*
+           back	        RB	    S-ADVP	         O	              -	      E-A1	      E-A1	  S-AM-DIR	(ADVP*
+              !	         .	         O	         O	              -	         O	         O	         O	*
+              !	         .	         O	         O	              -	         O	         O	         O	*)))))))))
+              !	         .	         O	         O	              -	         O	         O	         O	*))
+
+          Their	      PRP$	      B-NP	         O	              -	(S1(S(NP*
+       calzones	       NNS	      E-NP	         O	              -	*)
+            are	       VBP	      S-VP	         O	              -	(VP*
+       horrific	        JJ	    S-ADJP	         O	              -	(NP(ADJP*)
+              ,	         ,	         O	         O	              -	*
+            bad	        JJ	      B-NP	         O	              -	(ADJP*
+              ,	         ,	      I-NP	         O	              -	*
+ vomit-inducing	        JJ	      I-NP	         O	              -	*)
+              ,	         ,	      I-NP	         O	              -	*
+           YUCK	       NNP	      E-NP	     S-LOC	              -	(NP*)))
+              .	         .	         O	         O	              -	*))
+
+              A	        DT	      B-NP	         O	              -	      B-A0	      B-A0	(S1(NP(NP*
+            few	        JJ	      I-NP	         O	              -	      I-A0	      I-A0	*
+           tips	       NNS	      E-NP	         O	              -	      E-A0	      E-A0	*)
+              :	         :	         O	         O	              -	         O	         O	*
+           skip	        VB	      S-VP	         O	           skip	       S-V	         O	(S(S(VP*
+            the	        DT	      B-NP	         O	              -	      B-A1	         O	(NP*
+         turnip	        NN	      I-NP	         O	              -	      I-A1	         O	*
+           cake	        NN	      E-NP	         O	              -	      E-A1	         O	*)))
+              ,	         ,	         O	         O	              -	         O	         O	*
+          roast	       VBP	      S-VP	         O	          roast	         O	       S-V	(VP*
+           pork	        NN	      B-NP	         O	              -	         O	      B-A1	(NP(NP*
+           buns	       NNS	      E-NP	         O	              -	         O	      I-A1	*)
+            and	        CC	         O	         O	              -	         O	      I-A1	*
+            egg	        NN	      B-NP	         O	              -	         O	      I-A1	(NP*
+       custards	       NNS	      E-NP	         O	              -	         O	      E-A1	*))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+            The	        DT	      B-NP	         O	              -	(S1(S(NP*
+         bagels	       NNS	      E-NP	         O	              -	*)
+            are	       VBP	      S-VP	         O	              -	(VP*
+       fabulous	        JJ	    S-ADJP	         O	              -	(ADJP*))
+              .	         .	         O	         O	              -	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	         O	(S1(S(NP*)
+          never	        RB	    S-ADVP	         O	              -	  S-AM-TMP	         O	(ADVP*)
+            had	       VBD	      S-VP	         O	            had	       S-V	         O	(VP*
+       anything	        NN	      S-NP	         O	              -	      B-A1	      S-A1	(NP(NP*)
+              I	       PRP	      S-NP	         O	              -	      I-A1	      S-A0	(SBAR(S(NP*)
+            did	       VBD	      B-VP	         O	              -	      I-A1	         O	(VP*
+            n't	        RB	      I-VP	         O	              -	      I-A1	  S-AM-NEG	*
+           like	        VB	      E-VP	         O	           like	      I-A1	       S-V	(VP*
+           here	        RB	    S-ADVP	         O	              -	      E-A1	  S-AM-LOC	(ADVP*)))))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	(S1(S(NP*)
+     definitely	        RB	    S-ADVP	         O	              -	  S-AM-ADV	(ADVP*)
+          would	        MD	      B-VP	         O	              -	  S-AM-MOD	(VP*
+            n't	        RB	      I-VP	         O	              -	  S-AM-NEG	*
+             go	        VB	      E-VP	         O	             go	       S-V	(VP*
+           back	        RB	    S-ADVP	         O	              -	  S-AM-DIR	(ADVP*)))
+              .	         .	         O	         O	              -	         O	*))
+
+          While	        IN	    S-SBAR	         O	              -	(S1(S(SBAR*
+            the	        DT	      B-NP	         O	              -	(S(NP*
+       ambiance	        NN	      I-NP	         O	              -	*
+            and	        CC	      I-NP	         O	              -	*
+     atmosphere	        NN	      E-NP	         O	              -	*)
+           were	       VBD	      S-VP	         O	              -	(VP*
+          great	        JJ	    S-ADJP	         O	              -	(ADJP*))))
+              ,	         ,	         O	         O	              -	*
+            the	        DT	      B-NP	         O	              -	(NP*
+           food	        NN	      I-NP	         O	              -	*
+            and	        CC	      I-NP	         O	              -	*
+        service	        NN	      E-NP	         O	              -	*)
+          could	        MD	      B-VP	         O	              -	(VP*
+           have	        VB	      I-VP	         O	              -	(VP*
+           been	       VBN	      E-VP	         O	              -	(VP*
+              a	        DT	      B-NP	         O	              -	(NP*
+            lot	        NN	      E-NP	         O	              -	*)
+         better	       RBR	    S-ADVP	         O	              -	(ADVP*))))
+              .	         .	         O	         O	              -	*))
+
+            Our	      PRP$	      B-NP	         O	              -	(S1(S(NP*
+       waitress	        NN	      E-NP	         O	              -	*)
+            was	       VBD	      S-VP	         O	              -	(VP*
+          sweet	        JJ	    B-ADJP	         O	              -	(ADJP*
+            and	        CC	    I-ADJP	         O	              -	*
+   accomodating	        JJ	    E-ADJP	         O	              -	*
+              ,	         ,	         O	         O	              -	*
+            not	        RB	         O	         O	              -	*
+    overbearing	        JJ	    S-ADJP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	(S1(S(NP*)
+           have	       VBP	      B-VP	         O	              -	         O	(VP*
+          tried	       VBN	      E-VP	         O	          tried	       S-V	(VP*
+      literally	        RB	    S-ADVP	         O	              -	  S-AM-MNR	(ADVP*)
+          every	        DT	      B-NP	         O	              -	      B-A1	(NP*
+     restaurant	        NN	      E-NP	         O	              -	      E-A1	*)
+             on	        IN	      S-PP	         O	              -	  B-AM-LOC	(PP*
+          curry	        NN	      B-NP	         O	              -	  I-AM-LOC	(NP*
+            row	        NN	      E-NP	         O	              -	  E-AM-LOC	*))))
+              .	         .	         O	         O	              -	         O	*))
+
+             My	      PRP$	      B-NP	         O	              -	(S1(S(NP*
+       goodness	        NN	      E-NP	         O	              -	*)
+              ,	         ,	         O	         O	              -	*
+     everything	        NN	      S-NP	         O	              -	(NP(NP*)
+           from	        IN	      S-PP	         O	              -	(PP(PP*
+            the	        DT	      B-NP	         O	              -	(NP*
+           fish	        NN	      E-NP	         O	              -	*))
+             to	        TO	      S-PP	         O	              -	(PP*
+            the	        DT	      B-NP	         O	              -	(NP*
+           rice	        NN	      E-NP	         O	              -	*))
+             to	        TO	      S-PP	         O	              -	(PP*
+            the	        DT	      B-NP	         O	              -	(NP*
+        seaweed	        NN	      E-NP	         O	              -	*))))
+            was	       VBD	      S-VP	         O	              -	(VP*
+     absolutely	        RB	    B-ADJP	         O	              -	(ADJP*
+        amazing	        JJ	    E-ADJP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	         O	(S1(S(NP*)
+           went	       VBD	      S-VP	         O	           went	       S-V	         O	(VP*
+             to	        TO	      S-PP	         O	              -	      B-A4	         O	(PP*
+           this	        DT	      B-NP	         O	              -	      I-A4	         O	(NP*
+     restaurant	        NN	      E-NP	         O	              -	      E-A4	         O	*))
+           with	        IN	      S-PP	         O	              -	  B-AM-MNR	         O	(PP*
+              a	        DT	      B-NP	         O	              -	  I-AM-MNR	      B-A1	(NP(NP*
+          woman	        NN	      E-NP	         O	              -	  I-AM-MNR	      E-A1	*)
+           that	        IN	    S-SBAR	         O	              -	  I-AM-MNR	    S-R-A1	(SBAR(WHNP*)
+              I	       PRP	      S-NP	         O	              -	  I-AM-MNR	      S-A0	(S(NP*)
+            met	       VBD	      S-VP	         O	            met	  I-AM-MNR	       S-V	(VP*
+       recently	        RB	    S-ADVP	         O	              -	  E-AM-MNR	  S-AM-TMP	(ADVP*)))))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+           Good	        JJ	      B-NP	         O	              -	(S1(S(NP(NP*
+        spreads	       NNS	      E-NP	         O	              -	*)
+              ,	         ,	         O	         O	              -	*
+          great	        JJ	      B-NP	         O	              -	(NP*
+       beverage	        NN	      I-NP	         O	              -	*
+     selections	       NNS	      E-NP	         O	              -	*)
+            and	        CC	         O	         O	              -	*
+         bagels	       NNS	      S-NP	         O	              -	(NP*))
+         really	        RB	    S-ADVP	         O	              -	(VP(ADVP*)
+          tasty	        JJ	    S-ADJP	         O	              -	(ADJP*))
+              .	         .	         O	         O	              -	*))
+
+            The	        DT	      B-NP	         O	              -	(S1(FRAG(NP*
+           food	        NN	      I-NP	         O	              -	*
+        options	       NNS	      I-NP	         O	              -	*
+           rule	        NN	      E-NP	         O	              -	*)
+              .	         .	         O	         O	              -	*))
+
+   Consistently	        RB	      B-NP	         O	              -	(S1(FRAG(ADVP*)
+           good	        JJ	      I-NP	         O	              -	(NP*
+       Japanese	       NNP	      I-NP	    S-MISC	              -	*
+          Tapas	       NNP	      E-NP	         O	              -	*)
+              .	         .	         O	         O	              -	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	(S1(S(NP*)
+           went	       VBD	      S-VP	         O	           went	       S-V	(VP*
+             to	        TO	      S-PP	         O	              -	      B-A4	(PP*
+           Ruby	       NNP	      B-NP	     B-PER	              -	      I-A4	(NP*
+            Foo	       NNP	      E-NP	     E-PER	              -	      I-A4	*
+             's	       POS	      S-NP	         O	              -	      E-A4	*))
+          after	        IN	      S-PP	         O	              -	  B-AM-TMP	(PP*
+           work	        NN	      S-NP	         O	              -	  I-AM-TMP	(NP(NP*)
+           with	        IN	      S-PP	         O	              -	  I-AM-TMP	(PP*
+              a	        DT	      B-NP	         O	              -	  I-AM-TMP	(NP(NP*
+          group	        NN	      E-NP	         O	              -	  I-AM-TMP	*)
+             of	        IN	      S-PP	         O	              -	  I-AM-TMP	(PP*
+              6	        CD	      S-NP	         O	              -	  E-AM-TMP	(NP*)))))))
+              .	         .	         O	         O	              -	         O	*))
+
+            The	        DT	      B-NP	         O	              -	(S1(S(NP*
+          sushi	        NN	      E-NP	         O	              -	*)
+            was	       VBD	      S-VP	         O	              -	(VP*
+          awful	        JJ	    S-ADJP	         O	              -	(ADJP*))
+              !	         .	         O	         O	              -	*))
+
+             My	      PRP$	      B-NP	         O	              -	         O	         O	         O	(S1(S(S(NP(NP*
+      boyfriend	        NN	      E-NP	         O	              -	         O	         O	         O	*)
+            and	        CC	         O	         O	              -	         O	         O	         O	*
+              I	       PRP	      S-NP	         O	              -	      S-A0	      S-A0	         O	(NP*))
+           went	       VBD	      S-VP	         O	           went	       S-V	         O	         O	(VP*
+          there	        RB	    S-ADVP	         O	              -	  S-AM-LOC	         O	         O	(ADVP*)
+             to	        TO	      B-VP	         O	              -	    B-C-A1	         O	         O	(S(VP*
+      celebrate	        VB	      E-VP	         O	      celebrate	    I-C-A1	       S-V	         O	(VP*
+             my	      PRP$	      B-NP	         O	              -	    I-C-A1	      B-A1	         O	(NP*
+       birthday	        NN	      E-NP	         O	              -	    I-C-A1	      E-A1	         O	*)
+            the	        DT	      B-NP	         O	              -	    I-C-A1	         O	         O	(NP*
+          other	        JJ	      I-NP	         O	              -	    I-C-A1	         O	         O	*
+          night	        NN	      E-NP	         O	              -	    I-C-A1	         O	         O	*))))))
+            and	        CC	         O	         O	              -	    I-C-A1	         O	         O	*
+            all	        DT	      S-NP	         O	              -	    I-C-A1	         O	         O	(S(NP(NP*)
+              I	       PRP	      S-NP	         O	              -	    I-C-A1	         O	      S-A0	(SBAR(S(NP*)
+            can	        MD	      B-VP	         O	              -	    I-C-A1	         O	  S-AM-MOD	(VP*
+            say	        VB	      E-VP	         O	            say	    I-C-A1	         O	       S-V	(VP*)))))
+             is	       VBZ	      S-VP	         O	              -	    I-C-A1	         O	         O	(VP*
+           that	        IN	    S-SBAR	         O	              -	    I-C-A1	         O	         O	(SBAR*
+             it	       PRP	      S-NP	         O	              -	    I-C-A1	         O	         O	(S(NP*)
+            was	       VBD	      S-VP	         O	              -	    I-C-A1	         O	         O	(VP*
+    magnificent	        JJ	    S-ADJP	         O	              -	    E-C-A1	         O	         O	(ADJP*))))))
+              .	         .	         O	         O	              -	         O	         O	         O	*))
+
+            Now	        RB	    S-ADVP	         O	              -	         O	(S1(S(ADVP*)
+             it	       PRP	      S-NP	         O	              -	         O	(NP*)
+             's	       VBZ	      S-VP	         O	              -	         O	(VP*
+             so	        RB	    B-ADJP	         O	              -	         O	(UCP(ADJP*
+        crowded	        JJ	    E-ADJP	         O	              -	         O	*)
+            and	        CC	         O	         O	              -	         O	*
+           loud	        RB	    S-ADVP	         O	              -	         O	(S(ADVP*)
+            you	       PRP	      S-NP	         O	              -	      S-A0	(NP*)
+             ca	        MD	      B-VP	         O	              -	  S-AM-MOD	(VP*
+            n't	        RB	      I-VP	         O	              -	  S-AM-NEG	*
+           even	        RB	      I-VP	         O	              -	  S-AM-ADV	(ADVP*)
+           talk	        VB	      E-VP	         O	           talk	       S-V	(VP*
+             to	        TO	      S-PP	         O	              -	      B-A2	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A2	(NP*
+         person	        NN	      E-NP	         O	              -	      E-A2	*))
+           next	        IN	    S-ADVP	         O	              -	  B-AM-TMP	(ADVP*
+             to	        TO	      S-PP	         O	              -	  I-AM-TMP	(PP*
+            you	       PRP	      S-NP	         O	              -	  E-AM-TMP	(NP*))))))))
+              .	         .	         O	         O	              -	         O	*))
+
+             Go	        VB	      S-VP	         O	             Go	       S-V	         O	         O	         O	(S1(S(VP*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	*
+             go	        VB	      B-VP	         O	             go	         O	       S-V	         O	         O	(VP*
+              ,	         ,	      I-VP	         O	              -	         O	         O	         O	         O	*
+          hurry	        VB	      E-VP	         O	          hurry	         O	         O	       S-V	         O	*
+              ,	         ,	         O	         O	              -	         O	         O	         O	         O	*
+         before	        IN	      S-PP	         O	              -	         O	         O	  B-AM-TMP	         O	(SBAR*
+       everyone	        NN	      S-NP	         O	              -	         O	         O	  I-AM-TMP	      S-A0	(S(NP*)
+          finds	       VBZ	      S-VP	         O	          finds	         O	         O	  I-AM-TMP	       B-V	(VP*
+            out	        RP	     S-PRT	         O	              -	         O	         O	  I-AM-TMP	       E-V	(ADVP*)
+          about	        IN	      S-PP	         O	              -	         O	         O	  I-AM-TMP	      B-A1	(PP*
+             it	       PRP	      S-NP	         O	              -	         O	         O	  E-AM-TMP	      E-A1	(NP*))))))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A1	(S1(S(NP*)
+            've	       VBP	      B-VP	         O	              -	         O	(VP(VP*
+           been	       VBN	      E-VP	         O	              -	         O	(VP*
+           many	        JJ	      B-NP	         O	              -	         O	(NP*
+           time	        NN	      E-NP	         O	              -	         O	*)))
+            and	        CC	         O	         O	              -	         O	*
+           have	       VBP	      B-VP	         O	              -	         O	(VP*
+          never	        RB	      I-VP	         O	              -	  S-AM-TMP	(ADVP*)
+           been	       VBN	      E-VP	         O	              -	         O	(VP*
+   disappointed	       VBN	    S-ADJP	         O	   disappointed	       S-V	(ADJP*))))
+              .	         .	         O	         O	              -	         O	*))
+
+            The	        DT	      B-NP	         O	              -	(S1(S(NP*
+           food	        NN	      E-NP	         O	              -	*)
+            was	       VBD	      S-VP	         O	              -	(VP*
+          great	        JJ	    S-ADJP	         O	              -	(ADJP*))
+              .	         .	         O	         O	              -	*))
+
+             Do	       VBP	      B-VP	         O	              -	         O	         O	(S1(S(VP*
+            n't	        RB	      I-VP	         O	              -	  S-AM-NEG	         O	*
+          leave	        VB	      E-VP	         O	          leave	       S-V	         O	(VP*
+        without	        IN	      S-PP	         O	              -	  B-AM-MNR	         O	(PP*
+         trying	       VBG	      S-VP	         O	         trying	  I-AM-MNR	       S-V	(S(VP*
+            One	        CD	      B-NP	         O	              -	  I-AM-MNR	      B-A1	(NP*
+          Night	       NNP	      E-NP	         O	              -	  I-AM-MNR	      E-A1	*)
+             in	        IN	      S-PP	         O	              -	  I-AM-MNR	  B-AM-LOC	(PP*
+          Tokyo	       NNP	      S-NP	     S-LOC	              -	  E-AM-MNR	  E-AM-LOC	(NP*)))))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A1	(S1(S(NP*)
+          would	        MD	      B-VP	         O	              -	  S-AM-MOD	(VP*
+             go	        VB	      E-VP	         O	             go	       S-V	(VP*
+           back	        RB	    B-ADVP	         O	              -	  B-AM-DIR	(ADVP*
+            tho	        RB	    E-ADVP	         O	              -	  E-AM-DIR	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+     Definately	        RB	    S-ADVP	         O	              -	  S-AM-MNR	(S1(S(ADVP*)
+          check	        VB	      S-VP	         O	          check	       S-V	(VP*
+             it	       PRP	      S-NP	         O	              -	      S-A1	(NP*)
+            out	        RP	     S-PRT	         O	              -	     S-C-V	(ADVP*))
+              !	         .	         O	         O	              -	         O	*
+              !	         .	         O	         O	              -	         O	*
+              !	         .	         O	         O	              -	         O	*))
+
+            You	       PRP	      S-NP	         O	              -	      S-A0	(S1(S(NP*)
+            can	        MD	      B-VP	         O	              -	  S-AM-MOD	(VP*
+            not	        RB	      I-VP	         O	              -	  S-AM-NEG	*
+             go	        VB	      E-VP	         O	             go	       S-V	(VP*
+          wrong	        JJ	    S-ADJP	         O	              -	      B-A4	(ADJP*
+           with	        IN	      S-PP	         O	              -	      I-A4	(PP*
+           this	        DT	      B-NP	         O	              -	      I-A4	(NP*
+          place	        NN	      E-NP	         O	              -	      E-A4	*)))))
+              .	         .	         O	         O	              -	         O	*))
+
+             As	        IN	      S-PP	         O	              -	  B-AM-ADV	(S1(S(S(PP*
+              a	        DT	      B-NP	         O	              -	  I-AM-ADV	(NP*
+       Japanese	        JJ	      I-NP	    S-MISC	              -	  I-AM-ADV	*
+         native	        NN	      E-NP	         O	              -	  E-AM-ADV	*))
+              ,	         ,	         O	         O	              -	         O	*
+              I	       PRP	      S-NP	         O	              -	      S-A0	(NP*)
+            've	       VBP	      B-VP	         O	              -	         O	(VP*
+          lived	       VBN	      E-VP	         O	          lived	       S-V	(VP*
+             in	        IN	      S-PP	         O	              -	  B-AM-LOC	(PP*
+            the	        DT	      B-NP	         O	              -	  I-AM-LOC	(NP*
+       Tristate	       NNP	      I-NP	     S-ORG	              -	  I-AM-LOC	*
+           area	        NN	      E-NP	         O	              -	  E-AM-LOC	*))
+            for	        IN	      S-PP	         O	              -	  B-AM-TMP	(PP*
+           over	        IN	      B-NP	         O	              -	  I-AM-TMP	(NP(QP*
+              8	        CD	      I-NP	         O	              -	  I-AM-TMP	*)
+          years	       NNS	      E-NP	         O	              -	  E-AM-TMP	*)))))
+              ,	         ,	         O	         O	              -	         O	*
+            but	        CC	         O	         O	              -	         O	*
+              I	       PRP	      S-NP	         O	              -	         O	(S(NP*)
+            was	       VBD	      S-VP	         O	              -	         O	(VP*
+           just	        RB	    B-ADJP	         O	              -	         O	(ADJP(ADVP*
+             so	        RB	    I-ADJP	         O	              -	         O	*)
+         amazed	        JJ	    E-ADJP	         O	              -	         O	*
+             at	        IN	      S-PP	         O	              -	         O	(PP*
+           this	        DT	      B-NP	         O	              -	         O	(NP*
+          place	        NN	      E-NP	         O	              -	         O	*)))))
+              .	         .	         O	         O	              -	         O	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	      S-A0	      B-A0	      B-A0	         O	(S1(S(NP*)
+         loving	       VBG	      B-VP	         O	         loving	       S-V	         O	      I-A0	      I-A0	         O	*
+       bringing	       VBG	      E-VP	         O	       bringing	      B-A1	       S-V	      I-A0	      I-A0	         O	(S(VP*
+        friends	       NNS	      S-NP	         O	              -	      I-A1	      S-A1	      I-A0	      I-A0	         O	(S(NP*)
+           here	        RB	    S-ADVP	         O	              -	      E-A1	  S-AM-LOC	      E-A0	      I-A0	         O	(ADVP*)
+           -and	       VBP	      S-VP	         O	           -and	         O	         O	       S-V	      I-A0	         O	(VP*))))
+              I	       PRP	      S-NP	         O	              -	         O	         O	      B-A1	      E-A0	         O	(NP*)
+             do	       VBP	      S-VP	         O	             do	         O	         O	      I-A1	       S-V	         O	*
+             so	        RB	      B-NP	         O	              -	         O	         O	      I-A1	      S-A1	         O	(ADJP*
+          every	        DT	      I-NP	         O	              -	         O	         O	      I-A1	  B-AM-TMP	      B-A1	*)
+         chance	        NN	      E-NP	         O	              -	         O	         O	      I-A1	  I-AM-TMP	      E-A1	*
+              I	       PRP	      S-NP	         O	              -	         O	         O	      I-A1	  I-AM-TMP	      S-A0	(S(NP*)
+            get	       VBP	      S-VP	         O	            get	         O	         O	      E-A1	  E-AM-TMP	       S-V	(VP*))
+              .	         .	         O	         O	              -	         O	         O	         O	         O	         O	*))
+
+           With	        IN	      S-PP	         O	              -	  B-AM-MNR	(S1(S(PP*
+            the	        DT	      B-NP	         O	              -	  I-AM-MNR	(NP*
+        theater	        NN	      E-NP	         O	              -	  I-AM-MNR	*))
+              2	        CD	      B-NP	         O	              -	  I-AM-MNR	(NP*
+         blocks	       NNS	      E-NP	         O	              -	  I-AM-MNR	*)
+           away	        RB	    S-ADVP	         O	              -	  E-AM-MNR	(ADVP*)
+             we	       PRP	      S-NP	         O	              -	      S-A0	(NP*)
+            had	       VBD	      S-VP	         O	            had	       S-V	(VP*
+              a	        DT	      B-NP	         O	              -	      B-A1	(NP(NP*
+      delicious	        JJ	      I-NP	         O	              -	      I-A1	*
+           meal	        NN	      E-NP	         O	              -	      E-A1	*)
+             in	        IN	      S-PP	         O	              -	  B-AM-LOC	(PP*
+              a	        DT	      B-NP	         O	              -	  I-AM-LOC	(NP*
+      beautiful	        JJ	      I-NP	         O	              -	  I-AM-LOC	*
+           room	        NN	      E-NP	         O	              -	  E-AM-LOC	*))))
+              .	         .	         O	         O	              -	         O	*))
+
+           Even	        RB	      B-NP	         O	              -	      B-A0	(S1(S(NP*
+             my	      PRP$	      I-NP	         O	              -	      I-A0	*
+         Indian	        JJ	      I-NP	    S-MISC	              -	      I-A0	*
+         friend	        NN	      E-NP	         O	              -	      E-A0	*)
+          could	        MD	      B-VP	         O	              -	  S-AM-MOD	(VP*
+            n't	        RB	      I-VP	         O	              -	  S-AM-NEG	*
+        believe	        VB	      E-VP	         O	        believe	       S-V	(VP*
+            how	       WRB	    B-ADJP	         O	              -	      B-A1	(SBAR(WHNP(ADJP*
+           good	        JJ	    I-ADJP	         O	              -	      I-A1	*
+            and	        CC	    I-ADJP	         O	              -	      I-A1	*
+          tasty	        JJ	    E-ADJP	         O	              -	      I-A1	*)
+     everything	        NN	      S-NP	         O	              -	      I-A1	*)
+            was	       VBD	      S-VP	         O	              -	      E-A1	(VP*))))
+              .	         .	         O	         O	              -	         O	*))
+
+             We	       PRP	      S-NP	         O	              -	      S-A0	(S1(S(NP*)
+           were	       VBD	      B-VP	         O	              -	         O	(VP*
+            not	        RB	      I-VP	         O	              -	  S-AM-NEG	*
+  dissappointed	       VBN	      E-VP	         O	  dissappointed	       S-V	(VP*
+             in	        IN	      S-PP	         O	              -	  B-AM-TMP	(PP*
+            the	        DT	      B-NP	         O	              -	  I-AM-TMP	(NP*
+          least	       JJS	      I-NP	         O	              -	  I-AM-TMP	*
+            bit	        NN	      E-NP	         O	              -	  I-AM-TMP	*))
+             by	        IN	      S-PP	         O	              -	  I-AM-TMP	(PP*
+           this	        DT	      B-NP	         O	              -	  I-AM-TMP	(NP*
+         little	        JJ	      I-NP	         O	              -	  I-AM-TMP	*
+            gem	        NN	      E-NP	         O	              -	  E-AM-TMP	*))))
+              .	         .	         O	         O	              -	         O	*))
+
+              A	        DT	      B-NP	         O	              -	(S1(NP*
+       pleasant	        JJ	      I-NP	         O	              -	*
+       surprise	        NN	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+           This	        DT	      S-NP	         O	              -	(S1(S(S(NP*)
+            was	       VBD	      S-VP	         O	              -	(VP*
+              a	        DT	      B-NP	         O	              -	(NP*
+         repeat	        NN	      I-NP	         O	              -	*
+          visit	        NN	      E-NP	         O	              -	*)))
+            and	        CC	         O	         O	              -	*
+             we	       PRP	      S-NP	         O	              -	(S(NP*)
+            'll	        MD	      B-VP	         O	              -	(VP*
+     definitely	        RB	      I-VP	         O	              -	(ADVP*)
+             be	        VB	      E-VP	         O	              -	(VP*
+           back	        RB	    S-ADVP	         O	              -	(ADVP*)
+          again	        RB	    S-ADVP	         O	              -	(ADVP*))))
+              .	         .	         O	         O	              -	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	(S1(S(NP*)
+           love	       VBP	      S-VP	         O	           love	       S-V	(VP(VP*
+            the	        DT	      B-NP	         O	              -	      B-A1	(NP*
+           fact	        NN	      E-NP	         O	              -	      I-A1	*
+           that	        IN	    S-SBAR	         O	              -	      I-A1	(SBAR*
+            the	        DT	      B-NP	         O	              -	      I-A1	(S(NP*
+          pizza	        NN	      I-NP	         O	              -	      I-A1	*
+         tastes	       NNS	      E-NP	         O	              -	      I-A1	*)
+             so	        RB	    B-ADJP	         O	              -	      I-A1	(ADJP*
+           good	        JJ	    E-ADJP	         O	              -	      I-A1	*)))))
+            and	        CC	         O	         O	              -	      I-A1	*
+             is	       VBZ	      S-VP	         O	              -	      I-A1	(VP*
+             so	        RB	    B-ADJP	         O	              -	      I-A1	(ADJP*
+          cheap	        JJ	    E-ADJP	         O	              -	      E-A1	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+        Service	        NN	      S-NP	         O	              -	(S1(S(NP*)
+            was	       VBD	      S-VP	         O	              -	(VP*
+         prompt	        JJ	    S-ADJP	         O	              -	(ADJP*)
+              ,	         ,	         O	         O	              -	*
+       friendly	        JJ	    B-ADJP	         O	              -	(ADJP*
+            and	        CC	    I-ADJP	         O	              -	*
+          great	        JJ	    E-ADJP	         O	              -	*))
+              .	         .	         O	         O	              -	*))
+
+             OU	       NNP	      S-NP	     S-ORG	              -	      S-A0	(S1(S(NP*)
+           MUST	        MD	      B-VP	         O	              -	  S-AM-MOD	(VP*
+            TRY	        VB	      E-VP	         O	            TRY	       S-V	(VP*
+           THIS	        DT	      B-NP	         O	              -	      B-A1	(NP*
+     RESTAURANT	        NN	      E-NP	         O	              -	      E-A1	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+            All	        DT	      B-NP	         O	              -	(S1(FRAG*
+         pretty	        RB	      I-NP	         O	              -	(ADJP*
+           good	        JJ	      E-NP	         O	              -	*)
+              .	         .	         O	         O	              -	*))
+
+           Have	        VB	      B-VP	         O	              -	         O	(S1(S(S(VP(VP*
+          eaten	       VBN	      E-VP	         O	          eaten	       S-V	(VP*
+             at	        IN	      S-PP	         O	              -	  B-AM-LOC	(PP*
+         Ginger	       NNP	      B-NP	     B-LOC	              -	  I-AM-LOC	(NP*
+          House	       NNP	      E-NP	     E-LOC	              -	  E-AM-LOC	*))
+        several	        JJ	      B-NP	         O	              -	  B-AM-TMP	(NP*
+          times	       NNS	      E-NP	         O	              -	  E-AM-TMP	*)))
+              ,	         ,	         O	         O	              -	         O	*))
+            and	        CC	         O	         O	              -	         O	*
+             it	       PRP	      S-NP	         O	              -	         O	(S(NP*)
+             's	       VBZ	      S-VP	         O	              -	         O	(VP*
+         always	        RB	    S-ADVP	         O	              -	         O	(ADVP*)
+           good	        JJ	    S-ADJP	         O	              -	         O	(ADJP*)))
+              .	         .	         O	         O	              -	         O	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	         O	         O	(S1(S(S(NP*)
+           have	       VBP	      B-VP	         O	              -	         O	         O	         O	(VP*
+            n't	        RB	      I-VP	         O	              -	  S-AM-NEG	  S-AM-NEG	         O	*
+            eat	        VB	      E-VP	         O	            eat	       S-V	         O	         O	(VP*
+              a	        DT	      B-NP	         O	              -	      B-A1	         O	         O	(NP*
+           lamb	        NN	      I-NP	         O	              -	      I-A1	      S-A1	         O	*
+           chop	        NN	      E-NP	         O	           chop	      I-A1	       S-V	         O	*)
+             as	        RB	    B-ADJP	         O	              -	      I-A1	      B-A1	         O	(ADJP(ADJP*
+      delicious	        JJ	    E-ADJP	         O	              -	      I-A1	      I-A1	         O	*)
+             as	        IN	      S-PP	         O	              -	      I-A1	      I-A1	         O	(PP*
+           that	        DT	      S-NP	         O	              -	      I-A1	      E-A1	         O	(NP*))))))
+              ,	         ,	         O	         O	              -	      I-A1	         O	         O	*
+            the	        DT	      B-NP	         O	              -	      I-A1	         O	      B-A1	(S(NP*
+         salads	       NNS	      E-NP	         O	              -	      I-A1	         O	      E-A1	*)
+            are	       VBP	      S-VP	         O	              -	      I-A1	         O	         O	(VP*
+         really	        RB	    B-ADJP	         O	              -	      I-A1	         O	         O	(ADJP*
+           nice	        JJ	    E-ADJP	         O	              -	      I-A1	         O	         O	*)
+        dressed	       VBN	      S-VP	         O	        dressed	      I-A1	         O	       S-V	(S(VP*
+           with	        IN	      S-PP	         O	              -	      I-A1	         O	      B-A2	(PP*
+          lemon	        NN	      B-NP	         O	              -	      I-A1	         O	      I-A2	(NP*
+            and	        CC	      I-NP	         O	              -	      I-A1	         O	      I-A2	*
+          extra	        JJ	      I-NP	         O	              -	      I-A1	         O	      I-A2	*
+        virgnin	        JJ	      I-NP	         O	              -	      I-A1	         O	      I-A2	*
+          olive	        NN	      I-NP	         O	              -	      I-A1	         O	      I-A2	*
+            oil	        NN	      E-NP	         O	              -	      E-A1	         O	      E-A2	*))))))
+              .	         .	         O	         O	              -	         O	         O	         O	*))
+
+      Drawbacks	       NNS	      S-NP	         O	              -	         O	(S1(FRAG(NP(NP*)
+              :	         :	         O	         O	              -	         O	*
+        service	        NN	      S-NP	         O	              -	         O	(S(S(NP*)
+             is	       VBZ	      S-VP	         O	              -	         O	(VP*
+           slow	        JJ	    S-ADJP	         O	              -	         O	(ADJP*)))
+            and	        CC	         O	         O	              -	         O	*
+           they	       PRP	      S-NP	         O	              -	      S-A0	(S(NP*)
+             do	       VBP	      B-VP	         O	              -	         O	(VP*
+            n't	        RB	      I-VP	         O	              -	  S-AM-NEG	*
+          toast	        VB	      E-VP	         O	          toast	       S-V	(VP*)))
+              !	         .	         O	         O	              -	         O	*))))
+
+             It	       PRP	      S-NP	         O	              -	(S1(S(NP*)
+             is	       VBZ	      S-VP	         O	              -	(VP*
+             by	        IN	      S-PP	         O	              -	(PP*
+            far	        RB	      B-NP	         O	              -	(ADVP*))
+             my	      PRP$	      I-NP	         O	              -	(NP(NP*
+       favorite	        JJ	      I-NP	         O	              -	*
+     restaurant	        NN	      E-NP	         O	              -	*)
+             in	        IN	      S-PP	         O	              -	(PP*
+       Brooklyn	       NNP	      S-NP	     S-LOC	              -	(NP*))))
+              .	         .	         O	         O	              -	*))
+
+              I	       PRP	      S-NP	         O	              -	         O	(S1(S(S(NP*)
+            've	       VBP	      B-VP	         O	              -	         O	(VP*
+           been	       VBN	      E-VP	         O	              -	         O	(VP*
+             to	        TO	      S-PP	         O	              -	         O	(PP*
+           Joya	       NNP	      S-NP	     S-PER	              -	         O	(NP*
+          twice	        RB	    S-ADVP	         O	              -	         O	*)))))
+            and	        CC	         O	         O	              -	         O	*
+              I	       PRP	      S-NP	         O	              -	      S-A1	(S(NP*)
+           will	        MD	      B-VP	         O	              -	  S-AM-MOD	(VP*
+          never	        RB	      I-VP	         O	              -	  S-AM-NEG	(ADVP*)
+             go	        VB	      E-VP	         O	             go	       S-V	(VP*
+          again	        RB	    S-ADVP	         O	              -	  S-AM-TMP	(ADVP*))))
+              .	         .	         O	         O	              -	         O	*))
+
+              A	        DT	      B-NP	         O	              -	(S1(FRAG(NP(ADJP*
+         hearty	        JJ	      I-NP	         O	              -	*)
+            two	        CD	      I-NP	         O	              -	*
+         thumbs	       NNS	      E-NP	         O	              -	*)
+             up	        RP	     S-PRT	         O	              -	(ADVP*)
+              !	         .	         O	         O	              -	*))
+
+          Great	        JJ	      B-NP	         O	              -	(S1(INTJ*
+           find	        NN	      E-NP	         O	              -	*
+              !	         .	         O	         O	              -	*
+              !	         .	         O	         O	              -	*
+              !	         .	         O	         O	              -	*))
+
+             If	        IN	    S-SBAR	         O	              -	         O	  B-AM-ADV	(S1(S(SBAR*
+           only	        RB	    S-ADVP	         O	              -	  S-AM-ADV	  I-AM-ADV	(SBAR*
+           they	       PRP	      S-NP	         O	              -	      S-A1	  I-AM-ADV	(S(NP*)
+      delivered	       VBD	      S-VP	         O	      delivered	       S-V	  E-AM-ADV	(VP*))))
+              ,	         ,	         O	         O	              -	         O	         O	*
+           they	       PRP	      S-NP	         O	              -	         O	      S-A0	(NP*)
+             'd	        MD	      B-VP	         O	              -	         O	  S-AM-MOD	(VP*
+           make	        VB	      E-VP	         O	           make	         O	       S-V	(VP*
+              a	        DT	      B-NP	         O	              -	         O	      B-A1	(NP*
+           mint	        NN	      E-NP	         O	              -	         O	      E-A1	*)))
+              !	         .	         O	         O	              -	         O	         O	*))
+
+            Was	       VBD	      S-VP	         O	              -	         O	(S1(S(VP*
+   surprisingly	        RB	    B-ADJP	         O	              -	  S-AM-EXT	(ADJP*
+   disappointed	        JJ	    E-ADJP	         O	   disappointed	       S-V	*))
+              .	         .	         O	         O	              -	         O	*))
+
+            The	        DT	      B-NP	         O	              -	(S1(S(NP*
+         prices	       NNS	      E-NP	         O	              -	*)
+           were	       VBD	      S-VP	         O	              -	(VP*
+      fantastic	        JJ	    S-ADJP	         O	              -	(ADJP*))
+              .	         .	         O	         O	              -	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A2	(S1(S(NP*)
+             'm	       VBP	      B-VP	         O	              -	         O	(VP*
+           told	       VBN	      E-VP	         O	           told	       S-V	(VP*
+           that	        IN	    S-SBAR	         O	              -	      B-A1	(SBAR*
+             it	       PRP	      S-NP	         O	              -	      I-A1	(S(NP*)
+             is	       VBZ	      S-VP	         O	              -	      I-A1	(VP*
+           open	        JJ	      B-NP	         O	              -	      I-A1	(ADJP*)
+          24hrs	       NNS	      E-NP	         O	              -	      I-A1	(NP*)
+          which	       WDT	      S-NP	         O	              -	      I-A1	(SBAR(WHNP*)
+             is	       VBZ	      S-VP	         O	              -	      I-A1	(S(VP*
+           good	        JJ	    S-ADJP	         O	              -	      E-A1	(ADJP*)))))))))
+              .	         .	         O	         O	              -	         O	*))
+
+           What	        WP	      B-NP	         O	              -	    B-R-A1	(S1(SBARQ(WHNP*
+           more	       JJR	      E-NP	         O	              -	    E-R-A1	*)
+          could	        MD	      S-VP	         O	              -	  S-AM-MOD	(SQ*
+            you	       PRP	      S-NP	         O	              -	      S-A0	(NP*)
+           want	        VB	      S-VP	         O	           want	       S-V	(VP*))
+              ?	         .	         O	         O	              -	         O	*))
+
+      Excellent	        JJ	      B-NP	         O	              -	(S1(NP*
+     experience	        NN	      E-NP	         O	              -	*
+              .	         .	         O	         O	              -	*))
+
+     Definitely	        RB	    S-ADVP	         O	              -	(S1(FRAG(ADVP*)
+              a	        DT	      B-NP	         O	              -	(NP*
+   neighborhood	        NN	      I-NP	         O	              -	*
+       favorite	        NN	      E-NP	         O	              -	*)
+              .	         .	         O	         O	              -	*))
+
+            The	        DT	      B-NP	         O	              -	         O	         O	         O	(S1(S(S(NP*
+           food	        NN	      E-NP	         O	              -	         O	         O	         O	*)
+             is	       VBZ	      S-VP	         O	              -	         O	         O	         O	(VP*
+       terrible	        JJ	    B-ADJP	         O	              -	         O	         O	         O	(ADJP*)))
+            and	        CC	    I-ADJP	         O	              -	         O	         O	         O	*
+        overall	        JJ	    E-ADJP	         O	              -	         O	         O	         O	(S(ADVP*)
+              ,	         ,	         O	         O	              -	         O	         O	         O	*
+              I	       PRP	      S-NP	         O	              -	         O	      S-A0	      S-A0	(NP*)
+          would	        MD	      B-VP	         O	              -	  S-AM-MOD	         O	         O	(VP*
+           have	        VB	      I-VP	         O	           have	       S-V	  S-AM-MOD	         O	(VP*
+             to	        TO	      I-VP	         O	              -	         O	         O	         O	(S(VP*
+            say	        VB	      I-VP	         O	            say	         O	       S-V	         O	(VP*
+          avoid	        VB	      E-VP	         O	          avoid	         O	      B-A1	       S-V	(S(VP*
+             at	        IN	      S-PP	         O	              -	         O	      I-A1	      B-A1	(PP*
+            all	        DT	      B-NP	         O	              -	         O	      I-A1	      I-A1	(NP*
+          costs	       NNS	      E-NP	         O	              -	         O	      E-A1	      E-A1	*))))))))))
+              .	         .	         O	         O	              -	         O	         O	         O	*))
+
+            The	        DT	      B-NP	         O	              -	      B-A1	(S1(S(NP*
+           food	        NN	      E-NP	         O	              -	      E-A1	*)
+             is	       VBZ	      B-VP	         O	              -	         O	(VP*
+       prepared	       VBN	      E-VP	         O	       prepared	       S-V	(VP*
+        quickly	        RB	    B-ADVP	         O	              -	  B-AM-MNR	(ADVP*
+            and	        CC	    I-ADVP	         O	              -	  I-AM-MNR	*
+    efficiently	        RB	    E-ADVP	         O	              -	  E-AM-MNR	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+            The	        DT	      B-NP	         O	              -	      B-A1	(S1(S(NP*
+           food	        NN	      E-NP	         O	              -	      E-A1	*)
+             is	       VBZ	      S-VP	         O	              -	         O	*
+          fresh	        JJ	    S-ADJP	         O	              -	         O	(ADJP*
+              ,	         ,	         O	         O	              -	         O	*
+      delicious	        JJ	    S-ADJP	         O	              -	         O	*)
+              ,	         ,	         O	         O	              -	         O	*
+            and	        CC	         O	         O	              -	         O	*
+     reasonably	        RB	      B-VP	         O	              -	  S-AM-MNR	(VP(ADVP*)
+         priced	       VBN	      E-VP	         O	         priced	       S-V	*)
+              .	         .	         O	         O	              -	         O	*))
+
+           This	        DT	      S-NP	         O	              -	(S1(S(NP*)
+             is	       VBZ	      S-VP	         O	              -	(VP*
+             my	      PRP$	      B-NP	         O	              -	(NP(NP*
+       favorite	        JJ	      I-NP	         O	              -	*
+        Italian	        JJ	      I-NP	    S-MISC	              -	*
+     restaurant	        NN	      E-NP	         O	              -	*)
+             in	        IN	      S-PP	         O	              -	(PP*
+            all	        DT	      S-NP	         O	              -	(NP(NP*)
+             of	        IN	      S-PP	         O	              -	(PP*
+            New	       NNP	      B-NP	     B-LOC	              -	(NP*
+           York	       NNP	      I-NP	     I-LOC	              -	*
+           City	       NNP	      E-NP	     E-LOC	              -	*))))))
+              .	         .	         O	         O	              -	*))
+
+         Anyway	        RB	    S-ADVP	         O	              -	         O	(S1(S(ADVP*)
+              ,	         ,	         O	         O	              -	         O	*
+           this	        DT	      S-NP	         O	              -	         O	(NP*)
+             is	       VBZ	      S-VP	         O	              -	         O	(VP*
+            the	        DT	      B-NP	         O	              -	  B-AM-TMP	(NP(NP*
+           last	        JJ	      I-NP	         O	              -	  I-AM-TMP	*
+           time	        NN	      E-NP	         O	              -	  E-AM-TMP	*)
+              I	       PRP	      S-NP	         O	              -	      S-A0	(SBAR(S(NP*)
+          cross	       VBP	      S-VP	         O	          cross	       S-V	(VP*
+            the	        DT	      B-NP	         O	              -	      B-A1	(NP*
+   williamsburg	        NN	      E-NP	         O	              -	      E-A1	*))))))
+              .	         .	         O	         O	              -	         O	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A0	(S1(S(NP*)
+             am	       VBP	      B-VP	         O	              -	         O	(VP*
+       bringing	       VBG	      E-VP	         O	       bringing	       S-V	(VP*
+             my	      PRP$	      B-NP	         O	              -	      B-A1	(NP*
+          whole	        JJ	      I-NP	         O	              -	      I-A1	*
+         family	        NN	      E-NP	         O	              -	      E-A1	*)
+           back	        RB	    S-ADVP	         O	              -	  B-AM-TMP	(ADVP*)
+           next	        JJ	      B-NP	         O	              -	  I-AM-TMP	(NP*
+           time	        NN	      E-NP	         O	              -	  E-AM-TMP	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+           Love	        VB	      S-VP	         O	           Love	       S-V	(S1(S(VP*
+           YUKA	       NNP	      S-NP	     S-ORG	              -	      S-A1	(NP*))
+              .	         .	         O	         O	              -	         O	*))
+
+             As	        IN	    S-SBAR	         O	              -	         O	         O	  B-AM-ADV	(S1(S(SBAR*
+             we	       PRP	      S-NP	         O	              -	      S-A0	         O	  I-AM-ADV	(S(NP*)
+           were	       VBD	      B-VP	         O	              -	         O	         O	  I-AM-ADV	(VP*
+        leaving	       VBG	      E-VP	         O	        leaving	       S-V	         O	  E-AM-ADV	(VP*))))
+              ,	         ,	         O	         O	              -	         O	         O	         O	*
+            the	        DT	      B-NP	         O	              -	         O	      B-A1	      B-A0	(NP*
+         couple	        NN	      E-NP	         O	              -	         O	      E-A1	      I-A0	*)
+       standing	        NN	      S-VP	         O	       standing	         O	       S-V	      I-A0	*
+             by	        IN	      S-PP	         O	              -	         O	      B-A0	      I-A0	(S(PP*
+            the	        DT	      B-NP	         O	              -	         O	      I-A0	      I-A0	(NP*
+           door	        NN	      E-NP	         O	              -	         O	      E-A0	      E-A0	*))
+           said	       VBD	      S-VP	         O	           said	         O	         O	       S-V	(VP*
+             to	        TO	      S-PP	         O	              -	         O	         O	      B-A2	(PP*
+        another	        DT	      B-NP	         O	              -	         O	         O	      I-A2	(NP*
+         waiter	        NN	      E-NP	         O	              -	         O	         O	      E-A2	*))))
+              ,	         ,	         O	         O	              -	         O	         O	         O	*
+             we	       PRP	      S-NP	         O	              -	         O	         O	         O	(NP*)
+            're	       VBP	      S-VP	         O	              -	         O	         O	         O	(VP*
+            not	        RB	         O	         O	              -	         O	         O	         O	*
+             in	        IN	      S-PP	         O	              -	         O	         O	         O	(PP*
+              a	        DT	      B-NP	         O	              -	         O	         O	         O	(NP*
+          hurry	        NN	      E-NP	         O	              -	         O	         O	         O	*)))
+              .	         .	         O	         O	              -	         O	         O	         O	*))
+
+              I	       PRP	      S-NP	         O	              -	      S-A1	(S1(S(NP*)
+           have	       VBP	      B-VP	         O	              -	         O	(VP*
+           been	       VBN	      I-VP	         O	              -	         O	(VP*
+         coming	       VBG	      E-VP	         O	         coming	       S-V	(VP*
+             to	        TO	      S-PP	         O	              -	      B-A4	(PP*
+           this	        DT	      B-NP	         O	              -	      I-A4	(NP*
+   neighborhood	        NN	      I-NP	         O	              -	      I-A4	*
+           spot	        NN	      E-NP	         O	              -	      I-A4	*))
+            for	        IN	      S-PP	         O	              -	      I-A4	(PP*
+          years	       NNS	      S-NP	         O	              -	      E-A4	(NP*)))))
+              .	         .	         O	         O	              -	         O	*))
+
+             We	       PRP	      S-NP	         O	              -	(S1(S(NP*)
+           will	        MD	      B-VP	         O	              -	(VP*
+             be	        VB	      E-VP	         O	              -	(VP*
+           back	        RB	    S-ADVP	         O	              -	(ADVP*)))
+              .	         .	         O	         O	              -	*))
+
+            The	        DT	      B-NP	         O	              -	      B-A1	         O	         O	(S1(S(S(NP(NP*
+        outdoor	        JJ	      I-NP	         O	              -	      I-A1	         O	         O	*
+     atmosphere	        NN	      E-NP	         O	              -	      E-A1	         O	         O	*)
+             of	        IN	      S-PP	         O	              -	         O	         O	         O	(PP*
+        sitting	       VBG	      S-VP	         O	        sitting	       S-V	         O	         O	(S(VP*
+             on	        IN	      S-PP	         O	              -	      B-A2	         O	         O	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A2	      B-A0	         O	(NP*
+       sidewalk	        NN	      E-NP	         O	              -	      E-A2	      E-A0	         O	*)))))
+       watching	       VBG	      S-VP	         O	       watching	  B-AM-ADV	       S-V	         O	(S(VP*
+            the	        DT	      B-NP	         O	              -	  I-AM-ADV	      B-A1	      B-A1	(NP*
+          world	        NN	      E-NP	         O	              -	  I-AM-ADV	      E-A1	      E-A1	*))))
+             go	        VB	      S-VP	         O	             go	  I-AM-ADV	         O	       S-V	(VP*
+             by	        IN	      S-PP	         O	              -	  I-AM-ADV	         O	      B-A2	(PP*
+             50	        CD	      B-NP	         O	              -	  I-AM-ADV	         O	      I-A2	(NP*
+           feet	       NNS	      E-NP	         O	              -	  I-AM-ADV	         O	      E-A2	*))
+           away	        RB	    S-ADVP	         O	              -	  I-AM-ADV	         O	      B-A4	(ADVP*
+             on	        IN	      S-PP	         O	              -	  I-AM-ADV	         O	      I-A4	(PP*
+            6th	        JJ	      B-NP	         O	              -	  I-AM-ADV	         O	      I-A4	(NP*
+         avenue	        NN	      E-NP	         O	              -	  I-AM-ADV	         O	      E-A4	*)))
+             on	        IN	      S-PP	         O	              -	  I-AM-ADV	         O	  B-AM-TMP	(PP*
+              a	        DT	      B-NP	         O	              -	  I-AM-ADV	         O	  I-AM-TMP	(NP*
+           cool	        JJ	      I-NP	         O	              -	  I-AM-ADV	         O	  I-AM-TMP	*
+        evening	        NN	      E-NP	         O	              -	  E-AM-ADV	         O	  E-AM-TMP	*))))
+            was	       VBD	      S-VP	         O	              -	         O	         O	         O	(VP*
+      wonderful	        JJ	    S-ADJP	         O	              -	         O	         O	         O	(ADJP*))
+              .	         .	         O	         O	              -	         O	         O	         O	*))
+
+              A	        DT	      B-NP	         O	              -	(S1(S(S(NP*
+          large	        JJ	      E-NP	         O	              -	*)
+             is	       VBZ	      S-VP	         O	              -	(VP*
+              $	         $	      B-NP	         O	              -	(NP*
+             20	        CD	      E-NP	         O	              -	*)))
+              ,	         ,	         O	         O	              -	*
+            and	        CC	         O	         O	              -	*
+       toppings	       NNS	      S-NP	         O	              -	(S(NP*)
+            are	       VBP	      S-VP	         O	              -	(VP*
+          about	        IN	      B-NP	         O	              -	(NP(QP*
+              $	         $	      I-NP	         O	              -	*
+              3	        CD	      I-NP	         O	              -	*))
+           each	        DT	      E-NP	         O	              -	(NP*)))
+              .	         .	         O	         O	              -	*))
+
+            The	        DT	      B-NP	         O	              -	         O	(S1(S(NP*
+          spicy	        JJ	      I-NP	         O	              -	         O	*
+           tuna	        NN	      I-NP	         O	              -	         O	*
+            and	        CC	      I-NP	         O	              -	         O	*
+         salmon	        NN	      E-NP	         O	              -	         O	*)
+            are	       VBP	      S-VP	         O	              -	         O	(VP*
+            the	        DT	      B-NP	         O	              -	      B-A1	(NP(NP*
+           best	       JJS	      E-NP	         O	              -	      E-A1	*)
+             we	       PRP	      S-NP	         O	              -	      S-A0	(SBAR(S(NP*)
+            've	       VBP	      B-VP	         O	              -	         O	(VP*
+           ever	        RB	      I-VP	         O	              -	  S-AM-TMP	(ADVP*)
+            had	       VBN	      E-VP	         O	            had	       S-V	(VP*))))))
+              .	         .	         O	         O	              -	         O	*))
+
+              A	        DT	      B-NP	         O	              -	(S1(FRAG(NP*
+    guaranteeed	        JJ	      I-NP	         O	              -	*
+        delight	        NN	      E-NP	         O	              -	*)
+              !	         .	         O	         O	              -	*))
+
+            The	        DT	      B-NP	         O	              -	(S1(S(NP*
+           food	        NN	      E-NP	         O	              -	*)
+            was	       VBD	      S-VP	         O	              -	*
+           very	        RB	    B-ADJP	         O	              -	(ADJP*
+           good	        JJ	    E-ADJP	         O	              -	*)
+              ,	         ,	         O	         O	              -	*
+              a	        DT	      B-NP	         O	              -	(NP*
+          great	        JJ	      I-NP	         O	              -	*
+           deal	        NN	      E-NP	         O	              -	*)
+              ,	         ,	         O	         O	              -	*
+            and	        CC	         O	         O	              -	*
+            the	        DT	      B-NP	         O	              -	(S(NP(NP*
+          place	        NN	      E-NP	         O	              -	*)
+            its	      PRP$	      B-NP	         O	              -	(NP*
+           self	        NN	      E-NP	         O	              -	*))
+            was	       VBD	      S-VP	         O	              -	(VP*
+          great	        JJ	    S-ADJP	         O	              -	(ADJP*)))
+              .	         .	         O	         O	              -	*))
+
+            The	        DT	      B-NP	         O	              -	         O	         O	(S1(S(S(NP*
+           food	        NN	      E-NP	         O	              -	         O	         O	*)
+             is	       VBZ	      S-VP	         O	              -	         O	         O	(VP*
+        usually	        RB	    S-ADVP	         O	              -	         O	         O	(ADVP*)
+           good	        JJ	    S-ADJP	         O	              -	         O	         O	(ADJP*)))
+            but	        CC	         O	         O	              -	         O	         O	*
+             it	       PRP	      S-NP	         O	              -	         O	         O	(S(NP*)
+      certainly	        RB	    S-ADVP	         O	              -	         O	         O	(ADVP*)
+             is	       VBZ	      S-VP	         O	              -	         O	         O	(VP*
+            n't	        RB	         O	         O	              -	         O	         O	*
+              a	        DT	         O	         O	              -	         O	         O	(NP(NP*
+       relaxing	       VBG	      S-VP	         O	       relaxing	       S-V	         O	*
+          place	        NN	      S-NP	         O	              -	      S-A1	         O	*)
+             to	        TO	      B-VP	         O	              -	         O	         O	(SBAR(S(VP*
+             go	        VB	      E-VP	         O	             go	         O	       S-V	(VP*)))))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+          After	        IN	      S-PP	         O	              -	  B-AM-TMP	         O	(S1(S(PP*
+         dinner	        NN	      S-NP	         O	              -	  E-AM-TMP	         O	(NP*))
+              ,	         ,	         O	         O	              -	         O	         O	*
+           take	        VB	      S-VP	         O	           take	       S-V	         O	*
+           your	      PRP$	      B-NP	         O	              -	      B-A1	         O	(NP*
+           date	        NN	      E-NP	         O	              -	      E-A1	         O	*)
+             to	        TO	      S-PP	         O	              -	      B-A2	         O	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A2	         O	(NP*
+           HUGE	        JJ	      I-NP	         O	              -	      I-A2	         O	*
+          dance	        NN	      I-NP	         O	              -	      I-A2	         O	*
+          floor	        NN	      E-NP	         O	              -	      E-A2	         O	*))
+              ,	         ,	         O	         O	              -	         O	         O	*
+       probably	        RB	    S-ADVP	         O	              -	      B-A0	         O	(ADVP*)
+            one	        CD	      S-NP	         O	              -	      I-A0	         O	(NP(NP*)
+             of	        IN	      S-PP	         O	              -	      I-A0	         O	(PP*
+            the	        DT	      B-NP	         O	              -	      I-A0	      B-A1	(NP(NP*
+        biggest	       JJS	      E-NP	         O	              -	      I-A0	      E-A1	*)
+            you	       PRP	      S-NP	         O	              -	      I-A0	      S-A0	(SBAR(S(NP*)
+            'll	        MD	      B-VP	         O	              -	      I-A0	  S-AM-MOD	(VP*
+            see	        VB	      E-VP	         O	            see	      I-A0	       S-V	(VP*
+             in	        IN	      S-PP	         O	              -	      I-A0	  B-AM-LOC	(PP*
+             NY	       NNP	      S-NP	     S-LOC	              -	      E-A0	  E-AM-LOC	(NP*)))))))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+            The	        DT	      B-NP	         O	              -	      B-A1	      B-A0	(S1(S(NP*
+         server	        NN	      E-NP	         O	              -	      E-A1	      E-A0	*)
+            was	       VBD	      B-VP	         O	              -	         O	         O	(VP(VP*
+         really	        RB	      I-VP	         O	              -	  S-AM-ADV	         O	(ADVP*)
+           cool	        VB	      I-VP	         O	           cool	       S-V	         O	(VP*))
+            and	        CC	      I-VP	         O	              -	         O	         O	*
+         served	       VBD	      E-VP	         O	         served	         O	       S-V	(VP*
+             us	       PRP	      S-NP	         O	              -	         O	      S-A1	(NP*)
+            our	      PRP$	      B-NP	         O	              -	         O	      B-A2	(NP*
+           food	        NN	      I-NP	         O	              -	         O	      I-A2	*
+            and	        CC	      I-NP	         O	              -	         O	      I-A2	*
+         drinks	       NNS	      E-NP	         O	              -	         O	      E-A2	*)
+           with	        IN	      S-PP	         O	              -	  B-AM-MNR	  B-AM-MNR	(PP*
+              a	        DT	      B-NP	         O	              -	  I-AM-MNR	  I-AM-MNR	(NP*
+          smile	        NN	      E-NP	         O	              -	  E-AM-MNR	  E-AM-MNR	*))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+            The	        DT	      B-NP	         O	              -	      B-A1	         O	(S1(S(NP(NP*
+         dishes	       NNS	      E-NP	         O	              -	      E-A1	         O	*)
+        offered	       VBN	      S-VP	         O	        offered	       S-V	         O	(VP*))
+           were	       VBD	      S-VP	         O	              -	         O	         O	(VP*
+         unique	        JJ	    S-ADJP	         O	              -	         O	         O	(ADJP(ADJP*)
+              ,	         ,	         O	         O	              -	         O	         O	*
+           very	        RB	    B-ADJP	         O	              -	         O	         O	(ADJP*
+          tasty	        JJ	    I-ADJP	         O	              -	         O	         O	*)
+            and	        CC	    I-ADJP	         O	              -	         O	         O	*
+          fresh	        JJ	    E-ADJP	         O	              -	         O	         O	(S(ADJP*
+           from	        IN	      S-PP	         O	              -	         O	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	         O	(NP(NP*
+           lamb	        NN	      I-NP	         O	              -	         O	         O	*
+       sausages	       NNS	      E-NP	         O	              -	         O	         O	*)
+              ,	         ,	         O	         O	              -	         O	         O	*
+       sardines	       NNS	      S-NP	         O	              -	         O	         O	(NP(NP*)
+           with	        IN	      S-PP	         O	              -	         O	         O	(PP*
+       biscuits	       NNS	      S-NP	         O	              -	         O	         O	(NP*)))
+              ,	         ,	         O	         O	              -	         O	         O	*
+          large	        JJ	      B-NP	         O	              -	         O	         O	(NP(NP*
+          whole	        JJ	      I-NP	         O	              -	         O	         O	*
+         shrimp	        NN	      E-NP	         O	              -	         O	         O	*)
+             to	        TO	      S-PP	         O	              -	         O	         O	(PP*
+            the	        DT	      B-NP	         O	              -	         O	         O	(NP(NP*
+        amazing	        JJ	      I-NP	         O	              -	         O	         O	*
+      pistachio	        NN	      I-NP	         O	              -	         O	         O	*
+            ice	        NN	      I-NP	         O	              -	         O	         O	*
+          cream	        NN	      E-NP	         O	              -	         O	         O	*
+          -LRB-	       NNP	      S-NP	     S-ORG	              -	         O	         O	*)
+            the	        DT	      B-NP	         O	              -	         O	      B-A0	(SBAR(S(NP*
+           best	       JJS	      I-NP	         O	              -	         O	      I-A0	(ADJP*
+            and	        CC	      I-NP	         O	              -	         O	      I-A0	*
+       freshest	       JJS	      E-NP	         O	              -	         O	      I-A0	*))
+              I	       PRP	      S-NP	         O	              -	         O	      E-A0	(NP*)
+            've	       VBP	      B-VP	         O	              -	         O	         O	(VP*
+           ever	        RB	      I-VP	         O	              -	         O	  S-AM-TMP	(ADVP*)
+            had	       VBD	      E-VP	         O	            had	         O	       S-V	(VP*
+          -RRB-	       NNP	      S-NP	     S-ORG	              -	         O	      S-A1	(NP*))))))))))))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
+           Went	       NNP	      S-VP	         O	           Went	       S-V	(S1(S(VP*
+          there	        RB	    S-ADVP	         O	              -	  S-AM-LOC	(ADVP*)
+            for	        IN	      S-PP	         O	              -	  B-AM-PNC	(PP*
+             an	        DT	      B-NP	         O	              -	  I-AM-PNC	(NP*
+         office	        NN	      I-NP	         O	              -	  I-AM-PNC	*
+          lunch	        NN	      E-NP	         O	              -	  E-AM-PNC	*)))
+              .	         .	         O	         O	              -	         O	*))
+
+             We	       PRP	      S-NP	         O	              -	      S-A0	         O	(S1(S(S(NP*)
+            've	       VBP	      B-VP	         O	              -	         O	         O	(VP*
+           only	        RB	      I-VP	         O	              -	  S-AM-ADV	         O	(ADVP*)
+          eaten	       VBN	      E-VP	         O	          eaten	       S-V	         O	(VP*
+             in	        IN	      S-PP	         O	              -	  B-AM-LOC	         O	(PP*
+            the	        DT	      B-NP	         O	              -	  I-AM-LOC	         O	(NP*
+     restaurant	        NN	      E-NP	         O	              -	  E-AM-LOC	         O	*))
+           once	        RB	    S-ADVP	         O	              -	  S-AM-TMP	         O	(ADVP*))))
+              ,	         ,	         O	         O	              -	         O	         O	*
+            but	        CC	         O	         O	              -	         O	         O	*
+             we	       PRP	      S-NP	         O	              -	         O	      S-A0	(S(NP*)
+           have	       VBP	      B-VP	         O	              -	         O	         O	(VP*
+        ordered	       VBN	      E-VP	         O	        ordered	         O	       S-V	(VP*
+           many	        JJ	      B-NP	         O	              -	         O	      B-A1	(NP*
+          times	       NNS	      E-NP	         O	              -	         O	      I-A1	*)
+            for	        IN	      S-PP	         O	              -	         O	      I-A1	(PP*
+         dinner	        NN	      S-NP	         O	              -	         O	      E-A1	(NP*)))))
+              .	         .	         O	         O	              -	         O	         O	*))
+
